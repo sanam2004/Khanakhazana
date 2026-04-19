@@ -11,3 +11,13 @@ Git & GitHub workflow for version control
 Vercel deployment for live hosting
 
 
+🛠️ Tech Stack
+Backend: Python, Django
+Frontend: HTML, CSS, JavaScript
+Database: SQLite (Default Django DB)
+Version Control: Git & GitHub
+
+
+🎯 Purpose
+
+This project is created to practice and demonstrate Django development skills, including backend logic, database integration, and deployment-ready structure.
